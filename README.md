@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning languages like javascript and wolfram mathemetica
 - 💞️ I’m looking to collaborate on game engines and mathemetica scripts. (for the momment)
 - 📫 How to reach me on my github page.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He, Him
+- ⚡ Fun fact: I love programming.
 
 <!---
 HappyPr0gramming/HappyPr0gramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
