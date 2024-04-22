@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HappyPr0gramming
 - 👀 I’m interested in programming with various programming languages like python, html, javascript, and wolfram mathemetica.
 - 🌱 I’m currently learning languages like javascript and wolfram mathemetica
-- 💞️ I’m looking to collaborate on game engines and mathemetica scripts. (for the momment)
+- 💞️ I’m looking to collaborate on game engines and mathemetica scripts. I also like making Python libraries (for the momment)
 - 📫 How to reach me on my github page.
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I love programming.
